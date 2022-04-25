@@ -170,6 +170,9 @@
             .slider {
                 margin-bottom: 20px;
             }
+           .getshape nav {
+                display: none;
+            }
         }
         
         .container2 {
