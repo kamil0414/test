@@ -126,7 +126,8 @@
         }
         
         .images img {
-            /* max-width: 25%; height: fit-content; */
+            max-width: 25%; 
+            height: fit-content;
         }
         
         .pb-120 {
